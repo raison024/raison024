@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!--- 🔭 I’m currently working on [Facemask Detector](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
 - 🌱 I’m currently learning ReactJS
-- 
+- 💼 any freelance work? do reach, email :)
 ![Raison's github stats](https://github-readme-stats.vercel.app/api?username=raison024&show_icons=true&theme=dark)
 
 ⭐️ From [raison024](https://github.com/raison024)
