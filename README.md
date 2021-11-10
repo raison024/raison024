@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github.com/raison024/raison024/blob/main/mrrobot.gif" width="300" height="700" />
+<img align="right" src="https://github.com/raison024/raison024/blob/main/pixelcoding.gif" width="480" height="480" />
 
 - 🌱 I’m currently learning ReactJS
 - 💼 any freelance work? do reach, email :)
