@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github.com/raison024/raison024/blob/main/pixelcoding.gif" width="480" height="480" />
 - 🌱 I’m currently learning ReactJS
+
 - 💼 any freelance work? do reach, email :)
 
 ![Raison's github stats](https://github-readme-stats.vercel.app/api?username=raison024&show_icons=true&theme=dark)
