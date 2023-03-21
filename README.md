@@ -6,7 +6,7 @@ I'm Raison Sabu, a 20-year old tech enthusiast who does web, app and game develo
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://github.com/raison024">
-  <img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  <img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" style="color: white" />
 </a><br><br>
 
 - 🌱 I’m currently learning ReactJS<br>
