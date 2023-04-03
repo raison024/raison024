@@ -1,5 +1,5 @@
 ### Hi there I'm RAISON 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://tenor.com/bM2a1.gif" width="25px">
 
 I'm Raison Sabu, a 22-year old tech enthusiast who does web, app and game development. Passionate to contribute open-source projects and make cool products.<br>
 <img align="left" src="https://github.com/raison024/raison024/blob/main/pixelcoding.gif" width="412" height="412" />
