@@ -15,7 +15,4 @@ I'm Raison Sabu, a 22-year old tech enthusiast who does web, app and game develo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=raison024&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=raison024&icon=5&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
