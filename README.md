@@ -1,7 +1,7 @@
 ## 💫 About Me
 <p>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBhOTZmODdkYzQ0YWJiZjk1YWMzNTdjYWQ4N2FkNzk0MmYxNjY2NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/b88QlTSTsj3bEHQyZf/giphy.gif" width="150" frameBorder="0" class="giphy-embed"></img>
-I'm Raison Sabu, a 22-year old tech enthusiast who does web, app and game development. Passionate to contribute open-source projects and make cool products.
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBhOTZmODdkYzQ0YWJiZjk1YWMzNTdjYWQ4N2FkNzk0MmYxNjY2NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/b88QlTSTsj3bEHQyZf/giphy.gif" width="150" frameBorder="0" class="giphy-embed">I'm Raison Sabu, a 22-year old tech enthusiast who does web, app and game development. Passionate to contribute open-source projects and make cool products.</img>
+
 </p>
 
 
