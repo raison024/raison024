@@ -1,9 +1,9 @@
 ## 💫 About Me
-<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc2NTFlNTg4YzJjNzJiNWYxMzNlNGEzZDk2M2ZjMjUxNDc3NTJkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px" class="giphy-embed">
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc2NTFlNTg4YzJjNzJiNWYxMzNlNGEzZDk2M2ZjMjUxNDc3NTJkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif" width="300px" class="giphy-embed"></img>
+
 I'm Raison Sabu, a 22-year old tech enthusiast who does web, app and game development. Passionate to contribute open-source projects and make cool products.
 Follow me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raison024) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/raison024) 
-</img>
 
 
 ## 💻 Tech Stack
