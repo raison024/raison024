@@ -1,5 +1,5 @@
-## 💫 About Me
 <iframe src="https://giphy.com/embed/b88QlTSTsj3bEHQyZf" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BooleanCareers-transparent-b88QlTSTsj3bEHQyZf">via GIPHY</a></p>
+## 💫 About Me
 I'm Raison Sabu, a 22-year old tech enthusiast who does web, app and game development. Passionate to contribute open-source projects and make cool products.
 
 
