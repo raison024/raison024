@@ -1,6 +1,5 @@
 ## 💫 About Me
-<img align="left" src="https://tenor.com/bQGIm.gif" width="300px"></img>
-<div class="tenor-gif-embed" data-postid="24911240" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/anime-computer-typing-fast-typing-anime-fast-computer-typing-gif-24911240">Anime Computer GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="left" src="https://tenor.com/bQGIm.gif" width="300px" type="gif"></img>
 
 I'm Raison Sabu, a 22-year old tech enthusiast who does web, app and game development. Passionate to contribute open-source projects and make cool products.
 Follow me:
