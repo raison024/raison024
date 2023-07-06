@@ -1,5 +1,4 @@
 ## Hi, I'm Raison 👋🏾 👩🏾‍💻
-<img align="left" src="https://tenor.com/bQGIm.gif" width="300px" type="gif"></img>
 
 I'm Raison Sabu, a 22-year old tech enthusiast who does web, app and game development. Passionate to contribute open-source projects and make cool products.
 Follow me:
