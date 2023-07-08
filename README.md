@@ -1,4 +1,7 @@
 ## Hi, I'm Raison 👋🏾 👩🏾‍💻
+![PosterGH](https://github.com/raison024/raison024/assets/52721109/afa11c94-5cb5-4a43-9f8f-aeee6b1d49fa)
+
+
 
 I'm Raison Sabu, a 22-year old tech enthusiast who does web, app and game development. Passionate to contribute open-source projects and make cool products.
 Follow me:
