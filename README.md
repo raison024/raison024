@@ -1,4 +1,4 @@
-## Hi, I'm Raison 👋🏾 👩🏾‍💻
+## Hello there 👋🏾 👩🏾‍💻
 ![Poster2](https://github.com/raison024/raison024/assets/52721109/5a9496cf-2773-4ecc-be7a-6e35c9a2c4e8)
 
 
