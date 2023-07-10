@@ -8,7 +8,7 @@ I'm Raison Sabu, a 22-year old tech enthusiast who does web, app and game develo
 🔭 I’m currently working on Blender<br>
 🌱 I’m currently learning 3D Modelling and Animation
 
-![](https://komarev.com/ghpvc/raison024)
+![](https://komarev.com/ghpvc/?username=raison024)
 
 Follow me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raison024) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/raison024) 
