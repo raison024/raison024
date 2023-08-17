@@ -5,7 +5,7 @@
 
 I'm Raison Sabu, a 22-year old tech enthusiast who does web, app and game development. Passionate to contribute open-source projects and make cool products.
 
-🔭 I’m currently working on Blender<br>
+🔭 I’m currently working on MERN Projects<br>
 🌱 I’m currently learning 3D Modelling and Animation
 
 ![](https://komarev.com/ghpvc/?username=raison024)
